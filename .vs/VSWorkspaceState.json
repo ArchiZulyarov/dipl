@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv",
+    "\\.venv\\Scripts",
+    "\\.venv\\Scripts\\food",
+    "\\.venv\\Scripts\\food\\frontend",
+    "\\.venv\\Scripts\\food\\frontend\\src",
+    "\\.venv\\Scripts\\food\\frontend\\src\\assets",
+    "\\.venv\\Scripts\\food\\frontend\\src\\dev",
+    "\\.venv\\Scripts\\food\\frontend\\src\\pages",
+    "\\.venv\\Scripts\\food\\frontend\\src\\pages\\prime"
+  ],
+  "SelectedNode": "\\.venv\\Scripts\\food\\food\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
